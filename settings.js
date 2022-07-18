@@ -20,7 +20,7 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+94714327921']
+global.owner = ['+94779581789']
 global.premium = ['+94714327921']
 global.ownernomer = '+94714327921'
 global.ownername = 'SANDUN THILINA'
